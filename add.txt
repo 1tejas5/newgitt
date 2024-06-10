@@ -4,3 +4,4 @@ on a feature 1 checking merging
 
 on main
 some error
+error resolved
