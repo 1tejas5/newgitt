@@ -2,6 +2,9 @@ trying to add one more file to git remote repository or pushing one more file to
 on a different branch experimenting
 on a feature 1 checking merging
 
+checking feat2 available or not
+one more check
+
 on main
 some error
 error resolved
